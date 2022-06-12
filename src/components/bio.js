@@ -8,6 +8,7 @@
 import * as React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
+import { FaGithub } from 'react-icons/fa';
 
 const Bio = () => {
   const data = useStaticQuery(graphql`
@@ -19,7 +20,9 @@ const Bio = () => {
             summary
           }
           social {
-            twitter
+            mailAddress
+            githubUrl
+            linkedInUrl
           }
         }
       }
@@ -28,7 +31,7 @@ const Bio = () => {
 
   // Set these values by editing "siteMetadata" in gatsby-config.js
   const author = data.site.siteMetadata?.author
-  const social = data.site.siteMetadata?.social
+  const { githubUrl } = data.site.siteMetadata?.social
 
   return (
     <div className="bio">
@@ -43,13 +46,14 @@ const Bio = () => {
         alt="Profile picture"
       />
       {author?.name && (
-        <p>
-          Written by <strong>{author.name}</strong> {author?.summary || null}
-          {` `}
-          <a href={`https://twitter.com/${social?.twitter || ``}`}>
-            You should follow them on Twitter
-          </a>
-        </p>
+        <div>
+          <p>
+            Written by <strong>{author.name}</strong> <a  href={githubUrl}><FaGithub /></a>
+          </p>
+          <p>
+            {author?.summary || null}
+          </p>
+        </div>
       )}
     </div>
   )
