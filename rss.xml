@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[생각과 이것저것 기록.]]></description><link>https://chacham.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 13 Jun 2022 15:07:07 GMT</lastBuildDate><item><title><![CDATA[읽은 책들과 읽을 책들]]></title><description><![CDATA[…]]></description><link>https://chacham.github.io/too-many-books-to-read/</link><guid isPermaLink="false">https://chacham.github.io/too-many-books-to-read/</guid><pubDate>Mon, 13 Jun 2022 14:31:14 GMT</pubDate><content:encoded>&lt;p&gt;나는 책을 사는걸 좋아하는데, 읽는 속도보다 책을 사모으는 속도가 너무 빠르다.&lt;/p&gt;
+&lt;p&gt;책을 읽는 속도가 느리다는건 생각못하고(또, 내가 흥미를 빨리 잃어버린다는것도 까먹고)&lt;/p&gt;
+&lt;p&gt;책을 다 읽고 아는게 더 많아진 내 모습만을 생각하며 책을 모은다.&lt;/p&gt;
+&lt;p&gt;아무튼, 집에 공간도 남아나지 않고, 이사할때마다 너무 힘들어 쌓인 책은 꾸준히 읽으려고 시도한다.&lt;/p&gt;
+&lt;h4&gt;지금 읽고 있는 책&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;CODE
+&lt;ul&gt;
+&lt;li&gt;학부생때 읽다가, 절반도 채 못읽고 흥미를 잃었던 책. 언젠가 읽고싶다고 생각하다가 컴퓨터 구조 수업까지 듣고 졸업했다.&lt;/li&gt;
+&lt;li&gt;어셈블리고 뭐고 나오기 시작하면 다시 읽기 힘들어지겠지만, 아무튼 일고 있다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;스칼라로 배우는 함수형 프로그래밍
+&lt;ul&gt;
+&lt;li&gt;군대 있을때 우연히 접하고, 계속 흥미있던 책.&lt;/li&gt;
+&lt;li&gt;군대가기 전에 들었던 &lt;code class=&quot;language-text&quot;&gt;프로그래밍 언어&lt;/code&gt; 수업을 곱씹게 되고, (수업을 들을 때는) 알지 못했던걸 많이 알게 해준 책&lt;/li&gt;
+&lt;li&gt;하지만 어려워서 중간쯤 읽다가 포기했던 책이라, 다시 도전중이다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;알고리즘 산책
+&lt;ul&gt;
+&lt;li&gt;읽다가 몇번 이탈했는데, 사실 제대로 이해하고 다 읽을 수 있을것이라 생각하지 않음&lt;/li&gt;
+&lt;li&gt;그냥 마지막까지 훑기만 해야지&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;언젠가 읽었고, 다시 읽을 수도 있을 책들&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Clean Code&lt;/li&gt;
+&lt;li&gt;Effective Java&lt;/li&gt;
+&lt;li&gt;실용주의 프로그래머&lt;/li&gt;
+&lt;li&gt;프로그래밍 수련법&lt;/li&gt;
+&lt;li&gt;객체지향의 사실과 오해&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;읽고싶지만 미뤄둔 책들&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;오브젝트&lt;/li&gt;
+&lt;li&gt;도메인 주도 설계 관련 책들&lt;/li&gt;
+&lt;li&gt;쿠버네티스 관련 책들&lt;/li&gt;
+&lt;li&gt;엔터프라이즈 애플리케이션 아키텍처 패턴&lt;/li&gt;
+&lt;li&gt;쏙쏙 들어오는 함수형 코딩&lt;/li&gt;
+&lt;li&gt;리팩터링&lt;/li&gt;
+&lt;li&gt;GoF의 디자인 패턴&lt;/li&gt;
+&lt;li&gt;마이크로서비스 관련 책들&lt;/li&gt;
+&lt;li&gt;SICP - 좀 읽다가 던져둠&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[…]]></description><link>https://chacham.github.io/hello-world/</link><guid isPermaLink="false">https://chacham.github.io/hello-world/</guid><pubDate>Sun, 12 Jun 2022 14:22:10 GMT</pubDate><content:encoded>&lt;p&gt;오랜만에 다시 시작한 블로그 설정!&lt;/p&gt;
+&lt;p&gt;아침에 출근하려고 호다닥 일어나서 컴퓨터를 켜고 나니, 일요일이었다.&lt;/p&gt;
+&lt;p&gt;개발공부 해야지 마음먹고나면 항상 청소가 즐겁다. 오늘은 이불빨래까지 해치웠다.&lt;/p&gt;
+&lt;p&gt;소소한 것들을 기록해야지.&lt;/p&gt;
+&lt;p&gt;사진은 전에 분당구청 나들이나갔다 찍은 그냥 오솔길 옆에 난 수로?&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/4ddf51f382032eabf4ca45f823694eee/13f8e/trail.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 150%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAeABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDAQT/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgP/2gAMAwEAAhADEAAAASe7hchxF6IUBQF//8QAGhAAAgMBAQAAAAAAAAAAAAAAAAEREjECEP/aAAgBAQABBQIYx7KNKCXKJLFvP//EABYRAQEBAAAAAAAAAAAAAAAAAAAREP/aAAgBAwEBPwHKr//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABcQAAMBAAAAAAAAAAAAAAAAAAAgITH/2gAIAQEABj8CMa0if//EAB4QAQACAgEFAAAAAAAAAAAAAAEAESFBcTFRYYGR/9oACAEBAAE/IUo7e4NkK9HyYLByQu3XMBjHpBqfnFC3agiEUM//2gAMAwEAAgADAAAAEPMe8v/EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAEDAQE/EGAj/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARIf/aAAgBAgEBPxBE7bK520v/xAAeEAEBAAICAgMAAAAAAAAAAAABEQAhMUFRcWGBsf/aAAgBAQABPxA9ho9UOsAqNdlaYqqGuMwyoMrp9YCkQnMTALF9zL3TXkcEUHcFB/MMgX4MO2qfOVXSL4xRZPrP/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;의미없는 그냥 오솔길&quot;
+        title=&quot;의미없는 그냥 오솔길&quot;
+        src=&quot;/static/4ddf51f382032eabf4ca45f823694eee/828fb/trail.jpg&quot;
+        srcset=&quot;/static/4ddf51f382032eabf4ca45f823694eee/ff44c/trail.jpg 158w,
+/static/4ddf51f382032eabf4ca45f823694eee/a6688/trail.jpg 315w,
+/static/4ddf51f382032eabf4ca45f823694eee/828fb/trail.jpg 630w,
+/static/4ddf51f382032eabf4ca45f823694eee/0ede0/trail.jpg 945w,
+/static/4ddf51f382032eabf4ca45f823694eee/3ac88/trail.jpg 1260w,
+/static/4ddf51f382032eabf4ca45f823694eee/13f8e/trail.jpg 2832w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
