@@ -8,7 +8,9 @@
 import * as React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
+import { AiOutlineMail } from 'react-icons/ai';
 import { FaGithub } from 'react-icons/fa';
+import { BsLinkedin } from 'react-icons/bs';
 
 const Bio = () => {
   const data = useStaticQuery(graphql`
@@ -31,7 +33,7 @@ const Bio = () => {
 
   // Set these values by editing "siteMetadata" in gatsby-config.js
   const author = data.site.siteMetadata?.author
-  const { githubUrl } = data.site.siteMetadata?.social
+  const { mailAddress, githubUrl, linkedInUrl } = data.site.siteMetadata?.social
 
   return (
     <div className="bio">
@@ -48,7 +50,10 @@ const Bio = () => {
       {author?.name && (
         <div>
           <p>
-            Written by <strong>{author.name}</strong> <a  href={githubUrl}><FaGithub /></a>
+            Written by <strong>{author.name}</strong>
+            <a style={{ marginLeft : 10 }} href={'mailto:' + mailAddress}><AiOutlineMail aria-label="mail-icon" />Mail</a>
+            <a style={{ marginLeft : 10 }} href={githubUrl}><FaGithub aria-label="github-icon" />GitHub</a>
+            <a style={{ marginLeft : 10 }} href={linkedInUrl}><BsLinkedin aria-label="linkedin-icon" />LinkedIn</a>
           </p>
           <p>
             {author?.summary || null}
