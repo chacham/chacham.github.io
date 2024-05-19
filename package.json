@@ -1,7 +1,8 @@
 {
-  "name": "zany-zenith",
+  "name": "chacham-blog",
   "type": "module",
   "version": "0.0.1",
+  "private": true,
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
@@ -10,8 +11,19 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^4.8.6",
     "@astrojs/check": "^0.7.0",
+    "@astrojs/mdx": "^2.3.1",
+    "@astrojs/preact": "^3.2.0",
+    "@astrojs/rss": "^4.0.5",
+    "@astrojs/sitemap": "^3.1.4",
+    "@astrojs/tailwind": "^5.1.0",
+    "@tailwindcss/aspect-ratio": "^0.4.2",
+    "@tailwindcss/forms": "^0.5.7",
+    "@tailwindcss/typography": "^0.5.13",
+    "astro": "^4.8.6",
+    "astro-seo": "^0.8.3",
+    "preact": "^10.20.2",
+    "tailwindcss": "^3.4.3",
     "typescript": "^5.4.5"
   }
 }
